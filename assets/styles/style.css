@@ -1,0 +1,27 @@
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f8f9fa; /* Ajoutez une couleur de fond */
+}
+
+.logo img {
+    max-height: 50px; /* Ajustez la hauteur maximale du logo selon vos besoins */
+}
+
+.flex ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.flex li {
+    margin-right: 20px; /* Espacement entre les éléments de la liste */
+}
+
+.flex a {
+    text-decoration: none;
+    color: #000; /* Couleur du texte pour les liens */
+}
