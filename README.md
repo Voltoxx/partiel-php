@@ -29,7 +29,7 @@ Assurez-vous de configurer correctement le fichier `config.json` avec les détai
 }
 ```
 
-## UTILISATION 
+## Utilisation
 
 1. Accédez à votre application via le navigateur web.
 
@@ -37,7 +37,7 @@ Assurez-vous de configurer correctement le fichier `config.json` avec les détai
 
 3. Profitez du jeu et partagez-le avec vos amis !
 
-## FONCTIONNALITÉS
+## Fonctionnalités
 
 - Ajout de questions
 
