@@ -7,7 +7,7 @@ Bienvenue dans le projet Escape Game NWS ! Ce projet est un mini-jeu d'énigmes 
 1. Clonez le dépôt vers votre machine locale :
 
     ```bash
-    git clone https://github.com/votre-utilisateur/escape-game-nws.git
+    git clone https://github.com/Voltoxx/partiel-php.git
     ```
 
 2. Assurez-vous que vous avez un serveur PHP et une base de données MySQL installés.
